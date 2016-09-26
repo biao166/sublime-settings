@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"Babel Snippets",
+		"Comment-Snippets",
+		"CSS Format",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"EJS",
+		"Emmet",
+		"EsFormatter",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JavaScript Snippets",
+		"JsFormat",
+		"JSX",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"React Templates",
+		"ReactJS",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter-jsxhint",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"TypeScript"
+	]
+}
