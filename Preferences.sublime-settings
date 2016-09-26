@@ -1,60 +1,78 @@
 {
-	"binary_file_patterns":
-	[
-		"*.dds",
-		"*.eot",
-		"*.gif",
-		"*.ico",
-		"*.jar",
-		"*.jpeg",
-		"*.jpg",
-		"*.pdf",
-		"*.png",
-		"*.swf",
-		"*.tga",
-		"*.ttf",
-		"*.zip",
-		"assets/**",
-		"build/**",
-		"controllers/**",
-		"examples/tree-view/node_modules/**",
-		"log/**",
-		"node_modules/**"
-	],
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"default_line_ending": "unix",
-	"ensure_newline_at_eof_on_save": true,
-	"file_exclude_patterns":
-	[
-		"*.tags",
-		"*.tags_sorted_by_file",
-		".DS_Store",
-		".gitignore"
-	],
-	"font_face": "Monaco",
-	"font_size": 14,
-	"highlight_modified_tabs": true,
-	"ignore_vcs_packages": true,
-	"ignored_packages":
-	[
-		"JsFormat",
-		"Vintage"
-	],
-	"index_exclude_patterns":
-	[
-		"*.sublime-project",
-		"*.sublime-workspace"
-	],
-	"margin": 0,
-	"repository_channels":
-	[
-	],
-	"reveal-on-activate": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true,
-	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": true
+  "binary_file_patterns": [
+    "*.dds",
+    "*.eot",
+    "*.gif",
+    "*.ico",
+    "*.jar",
+    "*.jpeg",
+    "*.jpg",
+    "*.pdf",
+    "*.png",
+    "*.swf",
+    "*.tga",
+    "*.ttf",
+    "*.zip",
+    "assets/**",
+    "build/**",
+    "log/**",
+    "node_modules/**"
+  ],
+  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+  "default_line_ending": "unix",
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns": [
+    "*.pyc",
+    "*.pyo",
+    "*.exe",
+    "*.dll",
+    "*.obj",
+    "*.o",
+    "*.a",
+    "*.lib",
+    "*.so",
+    "*.dylib",
+    "*.ncb",
+    "*.sdf",
+    "*.suo",
+    "*.pdb",
+    "*.idb",
+    ".DS_Store",
+    "*.class",
+    "*.psd",
+    "*.db",
+    "*.sublime-workspace",
+    "*.sublime-project",
+    "*.tags",
+    "*.tags_sorted_by_file",
+    ".gitignore"
+  ],
+  "folder_exclude_patterns": [
+    "node_modules",
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS"
+  ],
+  "font_face": "Monaco",
+  "font_size": 14,
+  "highlight_modified_tabs": true,
+  "ignore_vcs_packages": true,
+  "ignored_packages": [
+    "Vintage"
+  ],
+  "index_exclude_patterns": [
+    "*.sublime-project",
+    "*.sublime-workspace"
+  ],
+  "margin": 0,
+  "repository_channels": [],
+  "reveal-on-activate": true,
+  "tab_size": 4,
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": true,
+  "use_tab_stops": true,
+  "word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+  "word_wrap": true
 }
